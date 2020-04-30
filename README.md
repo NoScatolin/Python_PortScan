@@ -1,2 +1,1 @@
-# Python_PortScan
-PortScan made with Python.
+A Portscanning script made with Python.
